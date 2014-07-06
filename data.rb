@@ -12,11 +12,11 @@ def salary
     end
     x+=1
   end
-  p container
+  container.each_slice(4).to_a
 end
 
-# file = File.new("nba_salaries.csv", "w+")
-# file.write
+file = File.new("nba_salaries.csv", "w+")
+file.write(salary)
 
 
 # salary
