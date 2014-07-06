@@ -1,0 +1,584 @@
+RK,NAME,TEAM,SALARY
+Kobe Bryant,SG,Los Angeles Lakers,30453805
+Dirk Nowitzki,PF,Dallas Mavericks,22721381
+Amar'e Stoudemire,PF,New York Knicks,21679893
+Joe Johnson,SG,Brooklyn Nets,21466718
+Carmelo Anthony,SF,New York Knicks,21388953
+Dwight Howard,C,Houston Rockets,20513178
+Pau Gasol,C,Los Angeles Lakers,19285850
+Chris Bosh,C,Miami Heat,19067500
+LeBron James,SF,Miami Heat,19067500
+Dwyane Wade,SG,Miami Heat,18673000
+Chris Paul,PG,Los Angeles Clippers,$18,668,431
+Deron Williams,PG,Brooklyn Nets,$18,466,130
+Zach Randolph,PF,Memphis Grizzlies,$18,238,333
+Rudy Gay,SF,Toronto Raptors,$17,888,932
+Kevin Durant,SF,Oklahoma City Thunder,$17,832,627
+Derrick Rose,PG,Chicago Bulls,$17,632,688
+Blake Griffin,PF,Los Angeles Clippers,$16,441,500
+Paul Pierce,SF,Brooklyn Nets,$15,333,334
+Carlos Boozer,PF,Chicago Bulls,$15,300,000
+LaMarcus Aldridge,PF,Portland Trail Blazers,$14,878,000
+Marc Gasol,C,Memphis Grizzlies,$14,860,523
+Russell Westbrook,PG,Oklahoma City Thunder,$14,693,906
+Kevin Love,PF,Minnesota Timberwolves,$14,693,906
+Emeka Okafor,C,Phoenix Suns,$14,487,500
+Roy Hibbert,C,Indiana Pacers,$14,283,844
+Eric Gordon,SG,New Orleans Pelicans,$14,283,844
+Luol Deng,SF,Cleveland Cavaliers,$14,275,000
+Tyson Chandler,C,New York Knicks,$14,100,538
+Andrew Bogut,C,Golden State Warriors,$14,000,000
+David Lee,PF,Golden State Warriors,$13,878,000
+James Harden,SG,Houston Rockets,$13,701,250
+Al Jefferson,C,Charlotte Bobcats,$13,500,000
+Josh Smith,SF,Detroit Pistons,$13,500,000
+Ben Gordon,SG,Charlotte Bobcats,$13,200,000
+Nene Hilario,PF,Washington Wizards,$13,000,000
+Andre Iguodala,SF,Golden State Warriors,$12,868,632
+Tony Parker,PG,San Antonio Spurs,$12,500,000
+Kevin Garnett,C,Brooklyn Nets,$12,433,735
+Serge Ibaka,PF,Oklahoma City Thunder,$12,350,000
+Nikola Pekovic,C,Minnesota Timberwolves,$12,100,000
+David West,PF,Indiana Pacers,$12,000,000
+Kris Humphries,C,Boston Celtics,$12,000,000
+Al Horford,C,Atlanta Hawks,$12,000,000
+Rajon Rondo,PG,Boston Celtics,$11,954,545
+Andrea Bargnani,C,New York Knicks,$11,862,500
+Tyreke Evans,SF,New Orleans Pelicans,$11,796,247
+Nicolas Batum,SF,Portland Trail Blazers,$11,295,250
+Joakim Noah,C,Chicago Bulls,$11,100,000
+Richard Jefferson,SF,Utah Jazz,$11,046,000
+DeAndre Jordan,C,Los Angeles Clippers,$10,986,550
+Mehmet Okur,C,Brooklyn Nets,$10,890,000
+Ty Lawson,PG,Denver Nuggets,$10,786,517
+JaVale McGee,C,Denver Nuggets,$10,750,000
+Tim Duncan,PF,San Antonio Spurs,$10,361,446
+Danilo Gallinari,SF,Denver Nuggets,$10,146,925
+Gerald Wallace,SF,Boston Celtics,$10,105,855
+Tiago Splitter,C,San Antonio Spurs,$10,000,000
+Stephen Curry,PG,Golden State Warriors,$9,887,642
+Jrue Holiday,PG,New Orleans Pelicans,$9,713,484
+DeMar DeRozan,SG,Toronto Raptors,$9,500,000
+Paul Millsap,PF,Atlanta Hawks,$9,500,000
+Shawn Marion,SF,Dallas Mavericks,$9,316,796
+Steve Nash,PG,Los Angeles Lakers,$9,300,500
+Anderson Varejao,C,Cleveland Cavaliers,$9,036,364
+Andris Biedrins,C,Utah Jazz,$9,000,000
+Thaddeus Young,PF,Philadelphia 76ers,$8,850,000
+Kendrick Perkins,C,Oklahoma City Thunder,$8,727,437
+Jeff Green,SF,Boston Celtics,$8,700,000
+Mike Conley,PG,Memphis Grizzlies,$8,600,001
+Jameer Nelson,PG,Orlando Magic,$8,600,000
+Charlie Villanueva,PF,Detroit Pistons,$8,580,000
+Rodney Stuckey,SG,Detroit Pistons,$8,500,000
+Jeremy Lin,PG,Houston Rockets,$8,374,646
+Omer Asik,C,Houston Rockets,$8,374,646
+Ryan Anderson,PF,New Orleans Pelicans,$8,308,500
+Marcus Thornton,SG,Sacramento Kings,$8,050,000
+George Hill,PG,Indiana Pacers,$8,000,000
+Tyrus Thomas,PF,Charlotte Hornets,$8,000,000
+O.J. Mayo,SG,Milwaukee Bucks,$8,000,000
+Jeff Teague,PG,Atlanta Hawks,$8,000,000
+Mark Blount,C,Miami Heat,$7,967,375
+Ersan Ilyasova,PF,Milwaukee Bucks,$7,900,000
+Marcin Gortat,C,Washington Wizards,$7,727,280
+Trevor Ariza,SF,Washington Wizards,$7,727,280
+Brandon Jennings,PG,Detroit Pistons,$7,655,503
+James Posey,SF,Indiana Pacers,$7,595,600
+John Salmons,SF,Toronto Raptors,$7,583,000
+Taj Gibson,PF,Chicago Bulls,$7,550,000
+Marvin Williams,PF,Utah Jazz,$7,500,000
+Arron Afflalo,SG,Orlando Magic,$7,500,000
+John Wall,PG,Washington Wizards,$7,459,925
+Tayshaun Prince,SF,Memphis Grizzlies,$7,235,955
+Wesley Matthews,SG,Portland Trail Blazers,$6,875,480
+Jose Calderon,PG,Dallas Mavericks,$6,791,570
+Kyle Korver,SG,Atlanta Hawks,$6,760,563
+Evan Turner,SF,Philadelphia 76ers,$6,679,867
+Morris Peterson,SG,null Unknown,$6,665,000
+Andres Nocioni,SF,Philadelphia 76ers,$6,650,000
+Jerome James,C,Chicago Bulls,$6,600,000
+,Amir Johnson,PF,Toronto Raptors,$6,500,000
+,Carl Landry,PF,Sacramento Kings,$6,500,000
+,Spencer Hawes,C,Philadelphia 76ers,$6,500,000
+,Brandon Bass,PF,Boston Celtics,$6,450,000
+,Channing Frye,PF,Phoenix Suns,$6,400,000
+,Wilson Chandler,SF,Denver Nuggets,$6,344,164
+,Jarrett Jack,PG,Cleveland Cavaliers,$6,300,000
+,Landry Fields,SF,Toronto Raptors,$6,250,000
+,Kyle Lowry,PG,Toronto Raptors,$6,210,000
+Jason Richardson,SG,Philadelphia 76ers,$6,204,250
+Derrick Favors,C,Utah Jazz,$6,008,196
+Gerald Henderson,SG,Charlotte Bobcats,$6,000,000
+Robin Lopez,C,Portland Trail Blazers,$5,904,261
+Chuck Hayes,PF,Toronto Raptors,$5,722,500
+Jason Thompson,PF,Sacramento Kings,$5,643,750
+Jason Terry,SG,Brooklyn Nets,$5,625,313
+Kyrie Irving,PG,Cleveland Cavaliers,$5,607,240
+J.R. Smith,SG,New York Knicks,$5,565,000
+Anthony Davis,PF,New Orleans Pelicans,$5,375,760
+Anthony Bennett,SF,Cleveland Cavaliers,$5,324,280
+Louis Williams,SG,Atlanta Hawks,$5,225,000
+Courtney Lee,SG,Memphis Grizzlies,$5,225,000
+Jamal Crawford,SG,Los Angeles Clippers,$5,225,000
+Antonio McDyess,PF,San Antonio Spurs,$5,220,000
+Speedy Claxton,PG,Atlanta Hawks,$5,209,454
+Zaza Pachulia,C,Milwaukee Bucks,$5,200,000
+Martell Webster,SF,Washington Wizards,$5,150,000
+J.J. Hickson,C,Denver Nuggets,$5,150,000
+Brad Miller,C,New Orleans Pelicans,$5,104,000
+Brandon Roy,SG,Minnesota Timberwolves,$5,100,000
+Keith Bogans,SG,Boston Celtics,$5,058,198
+Derrick Williams,PF,Sacramento Kings,$5,016,960
+Andre Miller,PG,Washington Wizards,$5,000,000
+Corey Brewer,SF,Minnesota Timberwolves,$5,000,000
+Richard Hamilton,SG,Chicago Bulls,$5,000,000
+DeMarcus Cousins,C,Sacramento Kings,$4,916,974
+Marcus Banks,PG,New Orleans Pelicans,$4,847,586
+Darius Songaila,PF,Philadelphia 76ers,$4,818,000
+Michael Kidd-Gilchrist,SF,Charlotte Bobcats,$4,809,840
+Victor Oladipo,SG,Orlando Magic,$4,763,760
+Boris Diaw,PF,San Antonio Spurs,$4,702,500
+J.J. Barea,PG,Minnesota Timberwolves,$4,687,000
+Linas Kleiza,SF,Fenerbahce Ulker Fenerbahce Ulker,$4,600,000
+Luc Richard Mbah a Moute,PF,Sacramento Kings,$4,588,384
+Luis Scola,PF,Indiana Pacers,$4,508,504
+Enes Kanter,C,Utah Jazz,$4,505,280
+Jonas Jerebko,PF,Detroit Pistons,$4,500,000
+Tony Allen,SG,Memphis Grizzlies,$4,494,383
+Ekpe Udoh,PF,Milwaukee Bucks,$4,469,548
+Luke Ridnour,PG,Charlotte Bobcats,$4,420,000
+Timofey Mozgov,C,Denver Nuggets,$4,400,000
+Udonis Haslem,PF,Miami Heat,$4,340,000
+Bradley Beal,SG,Washington Wizards,$4,319,280
+Otto Porter Jr.,SF,Washington Wizards,$4,278,000
+Earl Clark,SF,New York Knicks,$4,250,000
+Jared Dudley,SF,Los Angeles Clippers,$4,250,000
+Bruce Bowen,SF,San Antonio Spurs,$4,100,000
+Charlie Bell,SG,null Unknown,$4,099,920
+Greg Monroe,PF,Detroit Pistons,$4,086,454
+Greg Buckner,SG,Memphis Grizzlies,$4,080,915
+Tristan Thompson,PF,Cleveland Cavaliers,$4,062,000
+Kirk Hinrich,SG,Chicago Bulls,$4,059,000
+Ian Mahinmi,C,Indiana Pacers,$4,000,000
+Brandon Rush,SG,Utah Jazz,$4,000,000
+Hakim Warrick,PF,null Unknown,$4,000,000
+Elton Brand,PF,Atlanta Hawks,$4,000,000
+Matt Bonner,PF,San Antonio Spurs,$3,945,000
+Thabo Sefolosha,SG,Oklahoma City Thunder,$3,900,000
+Dion Waiters,SG,Cleveland Cavaliers,$3,894,240
+Cody Zeller,C,Charlotte Bobcats,$3,857,040
+Joel Anthony,C,Miami Heat,$3,800,000
+Danny Green,SG,San Antonio Spurs,$3,762,500
+Steve Novak,SF,Toronto Raptors,$3,750,000
+Al-Farouq Aminu,SF,New Orleans Pelicans,$3,749,602
+Samuel Dalembert,C,Dallas Mavericks,$3,700,748
+Ricky Rubio,PG,Minnesota Timberwolves,$3,678,358
+Raymond Felton,PG,New York Knicks,$3,637,073
+Jonas Valanciunas,C,Toronto Raptors,$3,526,440
+Thomas Robinson,PF,Portland Trail Blazers,$3,526,440
+Gerald Green,SG,Phoenix Suns,$3,500,000
+Chris Duhon,PG,null Unknown,$3,500,000
+Matt Carroll,SG,New Orleans Pelicans,$3,500,000
+Alex Len,C,Phoenix Suns,$3,492,720
+Raja Bell,SG,Dallas Mavericks,$3,480,000
+Gordon Hayward,SG,Utah Jazz,$3,452,183
+Jan Vesely,PF,Washington Wizards,$3,340,920
+Paul George,SF,Indiana Pacers,$3,282,003
+Shane Battier,SF,Miami Heat,$3,270,000
+Gary Neal,SG,Charlotte Bobcats,$3,250,000
+Matt Barnes,SF,Los Angeles Clippers,$3,250,000
+Alonzo Gee,SF,Cleveland Cavaliers,$3,250,000
+Darrell Arthur,PF,Denver Nuggets,$3,231,683
+Mirza Teletovic,PF,Brooklyn Nets,$3,229,050
+Ray Allen,SG,Miami Heat,$3,229,050
+Damian Lillard,PG,Portland Trail Blazers,$3,202,920
+Tyler Hansbrough,PF,Toronto Raptors,$3,183,000
+Andrei Kirilenko,SF,Brooklyn Nets,$3,183,000
+Mike Dunleavy,SF,Chicago Bulls,$3,183,000
+Vince Carter,SG,Dallas Mavericks,$3,180,000
+Nerlens Noel,C,Philadelphia 76ers,$3,172,320
+Ed Davis,PF,Memphis Grizzlies,$3,153,860
+Alexey Shved,PG,Minnesota Timberwolves,$3,150,000
+Jerryd Bayless,PG,Memphis Grizzlies,$3,135,000
+Patrick Patterson,PF,Toronto Raptors,$3,105,302
+Jason Kidd,PG,null Unknown,$3,090,000
+Lavoy Allen,PF,Philadelphia 76ers,$3,060,000
+Larry Sanders,C,Milwaukee Bucks,$3,053,368
+Bismack Biyombo,C,Charlotte Bobcats,$3,049,920
+Chris Copeland,SF,Indiana Pacers,$3,000,000
+Jeff Foster,PF,Indiana Pacers,$3,000,000
+Kosta Koufos,C,Memphis Grizzlies,$3,000,000
+Dorell Wright,SF,Portland Trail Blazers,$3,000,000
+Randy Foye,SG,Denver Nuggets,$3,000,000
+Kwame Brown,C,Philadelphia 76ers,$2,945,901
+Harrison Barnes,SF,Golden State Warriors,$2,923,920
+Joel Freeland,C,Portland Trail Blazers,$2,897,976
+Ben McLemore,SG,Sacramento Kings,$2,895,960
+Julian Wright,SF,Toronto Raptors,$2,858,057
+Mark Madsen,PF,Minnesota Timberwolves,$2,840,000
+Brandon Knight,PG,Milwaukee Bucks,$2,793,960
+Will Bynum,PG,Detroit Pistons,$2,790,343
+Kevin Seraphin,C,Washington Wizards,$2,761,114
+Eduardo Najera,PF,Charlotte Hornets,$2,750,000
+Marco Belinelli,SG,San Antonio Spurs,$2,750,000
+Aaron Gray,C,Toronto Raptors,$2,690,875
+David Andersen,C,Fenerbahce Ulker Fenerbahce Ulker,$2,685,185
+Terrence Ross,SF,Toronto Raptors,$2,678,640
+Greg Stiemsma,C,New Orleans Pelicans,$2,676,000
+Kentavious Caldwell-Pope,SG,Detroit Pistons,$2,653,080
+Josh McRoberts,PF,Charlotte Bobcats,$2,652,000
+Mo Williams,PG,Portland Trail Blazers,$2,652,000
+Wayne Ellington,SG,Dallas Mavericks,$2,652,000
+Eric Bledsoe,PG,Phoenix Suns,$2,626,474
+Nick Collison,PF,Oklahoma City Thunder,$2,585,668
+Kemba Walker,PG,Charlotte Bobcats,$2,568,360
+DeMarre Carroll,SF,Atlanta Hawks,$2,557,545
+Avery Bradley,PG,Boston Celtics,$2,511,432
+Jason Maxiell,PF,Orlando Magic,$2,500,000
+Chauncey Billups,SG,Detroit Pistons,$2,500,000
+Jason Smith,C,New Orleans Pelicans,$2,500,000
+Andre Drummond,C,Detroit Pistons,$2,465,400
+Trey Burke,PG,Utah Jazz,$2,438,760
+Ricky Davis,SG,Los Angeles Clippers,$2,400,000
+Trevor Booker,PF,Washington Wizards,$2,350,820
+Austin Rivers,SG,New Orleans Pelicans,$2,339,040
+Klay Thompson,SG,Golden State Warriors,$2,317,920
+C.J. McCollum,SG,Portland Trail Blazers,$2,316,720
+Anthony Parker,SG,Cleveland Cavaliers,$2,250,000
+Ben Wallace,PF,Detroit Pistons,$2,246,400
+DeShawn Stevenson,SG,Atlanta Hawks,$2,240,450
+Quincy Pondexter,SF,Memphis Grizzlies,$2,225,479
+C.J. Miles,SG,Cleveland Cavaliers,$2,225,000
+Meyers Leonard,C,Portland Trail Blazers,$2,222,160
+Alec Burks,PG,Utah Jazz,$2,202,000
+Michael Carter-Williams,PG,Philadelphia 76ers,$2,200,920
+Rudy Fernandez,SG,Denver Nuggets,$2,180,443
+Dante Cunningham,PF,Minnesota Timberwolves,$2,180,000
+Jordan Crawford,SG,Golden State Warriors,$2,162,419
+Greivis Vasquez,PG,Toronto Raptors,$2,150,188
+Jeremy Lamb,SG,Oklahoma City Thunder,$2,111,160
+Markieff Morris,PF,Phoenix Suns,$2,091,840
+Steven Adams,C,Oklahoma City Thunder,$2,090,880
+Anthony Johnson,PG,Orlando Magic,$2,062,800
+Brent Barry,SG,Houston Rockets,$2,062,800
+Brendan Haywood,C,Charlotte Hornets,$2,050,000
+C.J. Watson,PG,Indiana Pacers,$2,016,000
+Eric Maynor,PG,Washington Wizards,$2,016,000
+Nate Robinson,PG,Denver Nuggets,$2,016,000
+Jermaine O'Neal,C,Golden State Warriors,$2,000,000
+Vitor Faverani,C,Boston Celtics,$2,000,000
+Rasho Nesterovic,C,Toronto Raptors,$1,990,000
+Marcus Morris,PF,Phoenix Suns,$1,987,320
+Kelly Olynyk,C,Boston Celtics,$1,986,360
+Grant Hill,SF,Los Angeles Clippers,$1,975,000
+John Henson,C,Milwaukee Bucks,$1,905,360
+Darren Collison,PG,Los Angeles Clippers,$1,900,000
+Kawhi Leonard,SF,San Antonio Spurs,$1,887,840
+Shabazz Muhammad,SF,Minnesota Timberwolves,$1,887,120
+Dikembe Mutombo,C,Houston Rockets,$1,823,280
+Maurice Harkless,SF,Orlando Magic,$1,809,840
+Nikola Vucevic,C,Orlando Magic,$1,793,520
+Giannis Antetokounmpo,SG,Milwaukee Bucks,$1,792,560
+Jeff Ayres,C,San Antonio Spurs,$1,750,000
+Anthony Randolph,PF,Denver Nuggets,$1,750,000
+Royce White,PF,Sacramento Kings,$1,719,480
+Iman Shumpert,SG,New York Knicks,$1,703,760
+Reggie Evans,PF,Sacramento Kings,$1,695,635
+Renaldo Balkman,SF,Dallas Mavericks,$1,675,000
+Jeremy Evans,SF,Utah Jazz,$1,660,257
+Tyler Zeller,C,Cleveland Cavaliers,$1,633,440
+Chris Singleton,SF,Washington Wizards,$1,618,680
+John Lucas III,PG,Utah Jazz,$1,600,000
+Toney Douglas,PG,Miami Heat,$1,600,000
+Metta World Peace,SF,New York Knicks,$1,591,650
+Pablo Prigioni,PG,New York Knicks,$1,591,350
+Terrence Jones,PF,Houston Rockets,$1,551,840
+Jodie Meeks,SG,Los Angeles Lakers,$1,550,000
+Tobias Harris,SF,Orlando Magic,$1,545,840
+Shane Larkin,PG,Dallas Mavericks,$1,536,960
+Ronny Turiaf,C,Minnesota Timberwolves,$1,500,000
+Slava Kravtsov,C,Phoenix Suns,$1,500,000
+Gary Forbes, FBrooklyn Nets,$1,500,000
+Gustavo Ayon,PF,Atlanta Hawks,$1,500,000
+Andrew Nicholson,PF,Orlando Magic,$1,482,000
+Sergey Karasev,SG,Cleveland Cavaliers,$1,467,840
+Nando de Colo,PG,Toronto Raptors,$1,463,000
+Evan Fournier,SG,Denver Nuggets,$1,422,720
+Donatas Motiejunas,PF,Houston Rockets,$1,422,720
+Tony Snell,SG,Chicago Bulls,$1,409,040
+Craig Brackins,PF,null Unknown,$1,404,960
+Quentin Richardson,SF,Toronto Raptors,$1,399,507
+Willie Green,SG,Los Angeles Clippers,$1,399,507
+Chris Andersen,PF,Miami Heat,$1,399,507
+Rashard Lewis,PF,Miami Heat,$1,399,507
+Scotty Hopson,SG,Cleveland Cavaliers,$1,388,400
+Andray Blatche,C,Brooklyn Nets,$1,375,604
+Kenneth Faried,PF,Denver Nuggets,$1,367,640
+Jared Sullinger,C,Boston Celtics,$1,365,720
+Gorgui Dieng,C,Minnesota Timberwolves,$1,352,640
+Kurt Thomas,PF,Chicago Bulls,$1,352,181
+Roko Ukic,PG,Milwaukee Bucks,$1,350,000
+Dennis Schroder,PG,Atlanta Hawks,$1,348,200
+Victor Claver,PF,Portland Trail Blazers,$1,330,000
+Hamed Haddadi,C,Phoenix Suns,$1,300,000
+Mason Plumlee,PF,Brooklyn Nets,$1,298,640
+Dominique Jones,SG,Dallas Mavericks,$1,276,560
+Francisco Garcia,SG,Houston Rockets,$1,265,977
+Reggie Jackson,PG,Oklahoma City Thunder,$1,260,360
+John Jenkins,SG,Atlanta Hawks,$1,258,800
+Solomon Hill,SF,Indiana Pacers,$1,246,680
+MarShon Brooks,SG,Los Angeles Lakers,$1,210,080
+Hasheem Thabeet,C,Oklahoma City Thunder,$1,200,000
+Pero Antic,C,Atlanta Hawks,$1,200,000
+Tim Hardaway Jr.,SG,New York Knicks,$1,196,760
+Christian Eyenga,SF,Cleveland Cavaliers,$1,174,080
+Jordan Hamilton,SF,Houston Rockets,$1,169,880
+Tony Wroten,SG,Philadelphia 76ers,$1,160,040
+Reggie Bullock,SG,Los Angeles Clippers,$1,149,000
+Ronnie Price,PG,Orlando Magic,$1,146,337
+Patty Mills,PG,San Antonio Spurs,$1,133,950
+Norris Cole,PG,Miami Heat,$1,129,200
+Miles Plumlee,C,Phoenix Suns,$1,121,520
+Cory Joseph,PG,San Antonio Spurs,$1,120,920
+Jimmy Butler,SG,Chicago Bulls,$1,112,880
+Dwayne Jones II,PF,Utah Jazz,$1,106,942
+Chris Quinn,PG,Cleveland Cavaliers,$1,106,942
+Stephen Graham,SF,Milwaukee Bucks,$1,106,941
+Joey Graham,SF,Cleveland Cavaliers,$1,106,941
+Arnett Moultrie,PF,Philadelphia 76ers,$1,089,240
+JaJuan Johnson,PF,Boston Celtics,$1,089,240
+Perry Jones,SF,Oklahoma City Thunder,$1,082,520
+Rudy Gobert,C,Utah Jazz,$1,078,800
+Marquis Teague,PG,Brooklyn Nets,$1,074,720
+Alando Tucker,SF,Minnesota Timberwolves,$1,071,720
+Von Wafer,SG,Orlando Magic,$1,069,509
+Kelenna Azubuike,SF,Cleveland Cavaliers,$1,069,509
+Festus Ezeli,C,Golden State Warriors,$1,066,920
+Archie Goodwin,SG,Phoenix Suns,$1,064,400
+Nemanja Nedovic,PG,Golden State Warriors,$1,056,720
+Luke Harangody,PF,Boston Celtics,$1,054,389
+Kyle Singler,SF,Detroit Pistons,$1,045,000
+Quinton Ross,SF,Brooklyn Nets,$1,033,342
+Jawad Williams,SF,Cleveland Cavaliers,$1,029,389
+Anthony Morrow,SG,New Orleans Pelicans,$1,027,424
+Donte Greene,SF,Boston Celtics,$1,027,424
+Lance Stephenson,SG,Indiana Pacers,$1,005,000
+Andrew Bynum,C,Indiana Pacers,$1,000,000
+Jon Brockman,PF,Houston Rockets,$1,000,000
+Ish Smith,PG,Phoenix Suns,$951,463
+Alan Anderson,SF,Brooklyn Nets,$947,907
+Reggie Williams,SG,Oklahoma City Thunder,$947,907
+Omri Casspi,SF,Houston Rockets,$947,907
+Chandler Parsons,SF,Houston Rockets,$926,500
+James Anderson,SG,Philadelphia 76ers,$916,099
+Daniel Orton,C,Philadelphia 76ers,$916,099
+Chris Johnson,PF,Sacramento Kings,$916,099
+Jeff Adrien,PF,Charlotte Bobcats,$916,099
+Jon Leuer,PF,Memphis Grizzlies,$900,000
+Pops Mensah-Bonsu,PF,Washington Wizards,$885,120
+Bill Walker,SF,New York Knicks,$885,120
+Alexander Johnson,SF,Miami Heat,$885,120
+Salim Stoudamire,SG,Atlanta Hawks,$884,881
+Donald Sloan,PG,Indiana Pacers,$884,293
+Michael Beasley,SF,Miami Heat,$884,293
+E'Twaun Moore,PG,Orlando Magic,$884,293
+Anthony Tolliver,PF,Charlotte Bobcats,$884,293
+Jannero Pargo,PG,Charlotte Bobcats,$884,293
+Garrett Temple,SG,Washington Wizards,$884,293
+Mike Miller,SF,Memphis Grizzlies,$884,293
+Beno Udrih,PG,Memphis Grizzlies,$884,293
+Lance Thomas,SF,New Orleans Pelicans,$884,293
+Aaron Brooks,PG,Houston Rockets,$884,293
+Shelvin Mack,PG,Atlanta Hawks,$884,293
+Draymond Green,SF,Golden State Warriors,$875,500
+Quincy Douby,SG,Sacramento Kings,$855,189
+Mouhamed Sene,C,New York Knicks,$855,189
+Marcus Haislip, FSan Antonio Spurs,$855,189
+Anthony Roberson,SG,Chicago Bulls,$855,189
+Sundiata Gaines,PG,Indiana Pacers,$854,389
+Darnell Jackson,PF,Indiana Pacers,$854,389
+Jamaal Magloire,C,New Orleans Pelicans,$854,389
+Sonny Weems,SF,Bilbao Basket Bilbao Basket,$854,389
+Javaris Crittenton,PG,Washington Wizards,$854,389
+Darius Miles,SF,Memphis Grizzlies,$854,389
+Kenny Thomas,PF,Sacramento Kings,$854,389
+Luke Jackson,SF,Miami Heat,$854,389
+Josh Davis,SF,Memphis Grizzlies,$854,389
+Dexter Pittman,C,Atlanta Hawks,$854,389
+Chris Richard,PF,Chicago Bulls,$854,389
+Anthony Carter,PG,Denver Nuggets,$854,389
+Samardo Samuels,PF,Cleveland Cavaliers,$854,389
+Etan Thomas,C,Atlanta Hawks,$854,389
+Troy Murphy,PF,Dallas Mavericks,$839,312
+Solomon Alabi,C,Philadelphia 76ers,$830,000
+Michael Redd,SG,Phoenix Suns,$826,828
+Desmond Mason,SF,Sacramento Kings,$825,497
+Paul Davis,C,Washington Wizards,$825,497
+Marcus Williams,SG,San Antonio Spurs,$825,497
+Ryan Bowen,SF,Oklahoma City Thunder,$825,497
+Kevin Ollie,PG,Oklahoma City Thunder,$825,497
+Kareem Rush,SG,Los Angeles Clippers,$825,497
+Lindsey Hunter,SG,Phoenix Suns,$825,497
+Allen Crabbe,SG,Portland Trail Blazers,$825,000
+Josh Childress,SF,New Orleans Pelicans,$811,469
+Tyler Honeycutt,SF,Houston Rockets,$809,875
+Sean Marks,PF,Portland Trail Blazers,$799,105
+Elliot Williams,SG,Philadelphia 76ers,$797,545
+Ike Diogu,PF,New York Knicks,$792,377
+Kyle O'Quinn,PF,Orlando Magic,$788,872
+Orlando Johnson,SG,Sacramento Kings,$788,872
+Quincy Acy,SF,Toronto Raptors,$788,872
+Justin Holiday,SG,Utah Jazz,$788,872
+Jeff Taylor,SF,Charlotte Bobcats,$788,872
+D.J. Kennedy,SG,Dallas Mavericks,$788,872
+Andy Rautins,SG,New York Knicks,$788,872
+Robert Vaden, NAnull Unknown,$788,872
+Khris Middleton,PF,Milwaukee Bucks,$788,872
+Zabian Dowdell,PG,Phoenix Suns,$788,872
+Mike Scott,PF,Atlanta Hawks,$788,872
+Quincy Miller,SF,Denver Nuggets,$788,872
+Magnum Rolle, NAnull Unknown,$788,872
+Jermaine Taylor,SG,Cleveland Cavaliers,$780,871
+Josh Howard,SF,San Antonio Spurs,$773,976
+Yi Jianlian,PF,Dallas Mavericks,$771,706
+Mickell Gladness,C,Orlando Magic,$762,195
+Justin Harper,PF,Orlando Magic,$762,195
+Derrick Caracter,PF,Los Angeles Lakers,$762,195
+Travis Leslie,PG,null Unknown,$762,195
+Brian Butch,C,Utah Jazz,$762,195
+Cory Higgins,PG,Charlotte Hornets,$762,195
+Jerome Jordan,C,Memphis Grizzlies,$762,195
+Garret Siler,C,Phoenix Suns,$762,195
+Taylor Griffin,PF,Phoenix Suns,$762,195
+Jerome Dyson,PG,Phoenix Suns,$762,195
+Josh Selby,PG,Cleveland Cavaliers,$762,195
+Semih Erden,C,Boston Celtics,$762,195
+Curtis Jerrells, NAnull Unknown,$762,195
+Andre Roberson,SG,Oklahoma City Thunder,$740,560
+Joe Crawford,SG,New York Knicks,$736,420
+Dontell Jefferson,SG,Charlotte Hornets,$736,420
+Mike Taylor,PG,Los Angeles Clippers,$736,420
+Walter Sharpe,PF,Detroit Pistons,$736,420
+DeMarcus Nelson,SG,null Unknown,$736,420
+Diante Garrett,PG,Utah Jazz,$719,266
+Ime Udoka,SG,San Antonio Spurs,$708,640
+Malcolm Thomas,PF,Utah Jazz,$702,233
+Dwight Buycks,PG,Toronto Raptors,$700,000
+Mike Wilks,PG,Oklahoma City Thunder,$679,821
+Stephen Jackson,SF,Los Angeles Clippers,$671,022
+Brian Skinner,PF,Memphis Grizzlies,$668,434
+Chris Douglas-Roberts,SG,Charlotte Bobcats,$660,619
+Hilton Armstrong,PF,Golden State Warriors,$660,619
+Allen Iverson,SG,Philadelphia 76ers,$650,686
+D.J. Augustin,PG,Toronto Raptors,$650,215
+Alexis Ajinca,C,New Orleans Pelicans,$635,880
+James Johnson,PF,Memphis Grizzlies,$634,610
+Acie Law,PG,Golden State Warriors,$633,253
+Isaiah Canaan,PG,Houston Rockets,$570,515
+Jeremy Tyler,PF,New York Knicks,$556,584
+Kendall Marshall,PG,Los Angeles Lakers,$547,570
+Ricky Ledo,SG,Dallas Mavericks,$544,000
+Lazar Hayward,SF,New Orleans Pelicans,$542,788
+Jamaal Franklin,SG,Memphis Grizzlies,$535,000
+Jason Williams,PG,Orlando Magic,$524,964
+Ray McCallum,PG,Sacramento Kings,$524,616
+Carrick Felix,SG,Cleveland Cavaliers,$510,000
+Nate Wolters,PG,Milwaukee Bucks,$500,000
+Tony Mitchell,PF,Detroit Pistons,$500,000
+Elias Harris,SF,Los Angeles Lakers,$490,180
+Ian Clark,SG,Utah Jazz,$490,180
+Erik Murphy,PF,Chicago Bulls,$490,180
+C.J. Leslie,SF,New York Knicks,$490,180
+Nick Calathes,SG,Memphis Grizzlies,$490,180
+Glen Rice Jr.,SG,Washington Wizards,$490,180
+Jordan Henriquez,C,Houston Rockets,$490,180
+Richard Howell,PF,Portland Trail Blazers,$490,180
+Robert Covington,SF,Houston Rockets,$490,180
+Arinze Onuaku,PF,Cleveland Cavaliers,$490,180
+Peyton Siva,PG,Detroit Pistons,$490,180
+Phil Pressey,PG,Boston Celtics,$490,180
+Ryan Reid,PF,Oklahoma City Thunder,$475,000
+Greg Somogyi,C,Los Angeles Lakers,$473,604
+Stanley Robinson, NAnull Unknown,$473,604
+Pooh Jeter,PG,Sacramento Kings,$473,604
+Oscar Bellfield,PG,New York Knicks,$473,604
+Hollis Thompson,SG,Philadelphia 76ers,$473,604
+Devin Searcy,PF,null Unknown,$473,604
+Steven Gray,G,Washington Wizards,$473,604
+Luke Zeller,PF,Phoenix Suns,$473,604
+Matt Janning, NAnull Unknown,$473,604
+James Mays,PF,Brooklyn Nets,$473,604
+Dennis Horner,PF,Brooklyn Nets,$473,604
+Vernon Macklin,PF,Detroit Pistons,$473,604
+Carldell Johnson,PG,Atlanta Hawks,$473,604
+Jamar Smith,SG,Boston Celtics,$473,604
+Ismail Muhammad,SG,Atlanta Hawks,$473,604
+Hedo Turkoglu,SF,Los Angeles Clippers,$473,357
+Deron Washington, NAnull Unknown,$457,588
+Lorenzo Brown,PG,Philadelphia 76ers,$426,745
+Leandro Barbosa,SG,Phoenix Suns,$410,936
+Peja Stojakovic,SF,Dallas Mavericks,$402,065
+Luke Babbitt,SF,New Orleans Pelicans,$387,995
+Walker Russell,PG,Oklahoma City Thunder,$374,300
+Glen Davis,PF,Orlando Magic,$338,594
+Seth Curry,SG,Memphis Grizzlies,$328,709
+Chris Johnson,SF,Boston Celtics,$320,189
+Shavlik Randolph,PF,Phoenix Suns,$306,037
+Dewayne Dedmon,C,Philadelphia 76ers,$300,000
+Jason Collins,C,Brooklyn Nets,$275,691
+Jeremy Pargo,PG,Bilbao Basket Bilbao Basket,$264,527
+Gilbert Arenas,PG,Memphis Grizzlies,$261,829
+Danny Granger,SF,Los Angeles Clippers,$249,683
+Terrence Williams,SG,Boston Celtics,$244,710
+Caron Butler,SF,Oklahoma City Thunder,$244,489
+Jimmer Fredette,PG,Sacramento Kings,$239,279
+Bobby Simmons,SF,Los Angeles Clippers,$234,268
+Mustafa Shakur,PG,Oklahoma City Thunder,$226,162
+Earl Boykins,PG,Houston Rockets,$220,487
+Al Thornton,SF,Golden State Warriors,$211,084
+Travis Diener,PG,Portland Trail Blazers,$208,802
+Leon Powe,PF,null Unknown,$201,033
+Ben Uzoh,PG,Cleveland Cavaliers,$190,548
+Shannon Brown,PG,San Antonio Spurs,$188,438
+Jarvis Varnado,PF,Philadelphia 76ers,$171,696
+Troy Daniels,SG,Houston Rockets,$158,588
+James Singleton,SF,Washington Wizards,$151,585
+Mike Muscala,C,Atlanta Hawks,$138,404
+Armon Johnson,PG,Brooklyn Nets,$104,494
+Manny Harris,PG,Los Angeles Lakers,$104,034
+Cartier Martin,SF,Chicago Bulls,$104,034
+D.J. White,PF,Charlotte Bobcats,$104,028
+Willie Reed,PF,Sacramento Kings,$102,089
+Justin Hamilton,C,Charlotte Bobcats,$98,036
+Chris Babb,SG,Boston Celtics,$77,852
+Morris Almond,SG,Washington Wizards,$75,793
+Mikki Moore,C,Atlanta Hawks,$75,793
+DaJuan Summers,SF,Los Angeles Clippers,$72,892
+Ronnie Brewer,SF,Houston Rockets,$69,792
+Dominic McGuire,PF,Utah Jazz,$68,902
+Damion James,SF,San Antonio Spurs,$68,902
+Mike James,PG,Chicago Bulls,$57,627
+Jorge Gutierrez,PG,Brooklyn Nets,$54,785
+Shawne Williams,PF,Los Angeles Lakers,$52,017
+Drew Gooden,PF,Washington Wizards,$52,017
+Darius Morris,PG,Memphis Grizzlies,$52,017
+Othyus Jeffers,SG,San Antonio Spurs,$52,017
+Royal Ivey,PG,Oklahoma City Thunder,$52,017
+Sasha Vujacic,SG,Los Angeles Clippers,$52,017
+Lou Amundson,PF,Chicago Bulls,$48,854
+Lester Hudson,SG,Utah Jazz,$48,232
+Jared Cunningham,SG,Sacramento Kings,$46,404
+Maalik Wayns,PG,Los Angeles Clippers,$46,404
+Cedric Jackson,G,Cleveland Cavaliers,$40,375
+Jeff Foote,C,New Orleans Pelicans,$38,194
+Melvin Ely,C,New Orleans Pelicans,$29,788
+James Nunnally,SF,Philadelphia 76ers,$28,834
+Vander Blue,SG,Boston Celtics,$28,834
+Chris Wright,PG,Dallas Mavericks,$27,859
+Larry Owens,SF,Brooklyn Nets,$22,287
+Mario West,SG,Brooklyn Nets,$20,103
+Greg Smith,PF,Houston Rockets,$15,605
+Josh Powell,PF,Houston Rockets,$13,958
+Chris Wright,SF,Milwaukee Bucks,$9,281
+Lamar Odom,PF,New York Knicks,$8,232
