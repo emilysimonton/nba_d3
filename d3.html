@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <style>
+  .chart div {
+  font: 10px sans-serif;
+  background-color: steelblue;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+}
+</style>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  
+  <title>NBA Salaries</title>
+</head>
+<body>
+  <div id = "viz"></div>
+  <script>
+
+
+var data = d3.csv("nba_salaries.csv", function(d) {
+  return {
+    Name: d.NAME,
+    Position: d.POSITION,
+    Team: d.TEAM,
+    Salary: +d.SALARY
+  };
+}, function(error, rows) {
+  console.log(rows);
+});
+
+
+
+  </script>
+</body>
+</html>
