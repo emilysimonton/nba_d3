@@ -1,0 +1,155 @@
+{
+  "name": "NBA Salaries 2013-2014",
+  "children": [
+    {
+      "name": "Shooting Guard",
+      "children": [
+        {
+          "name": "Kobe Bryant",
+          "children": [
+            {
+              "name": "$30,453,805"
+            },
+            {
+              "name": "Los Angeles Lakers",
+            }
+          ]
+        },
+        {
+          "name": "Joe Johnson",
+          "children": [
+            {
+              "name": "$21,466,718"
+            },
+            {
+              "name": "Brooklyn Nets"
+            }
+          ]
+        },
+        {
+          "name": "Joe Johnson",
+          "children": [
+            {
+              "name": "$21,466,718"
+            },
+            {
+              "name": "Brooklyn Nets"
+            }
+          ]
+        },
+        {
+          "name": "Joe Johnson",
+          "children": [
+            {
+              "name": "$21,466,718"
+            },
+            {
+              "name": "Brooklyn Nets"
+            }
+          ]
+        },
+        {
+          "name": "Joe Johnson",
+          "children": [
+            {
+              "name": "$21,466,718"
+            },
+            {
+              "name": "Brooklyn Nets"
+            }
+          ]
+        },
+        {
+          "name": "Joe Johnson",
+          "children": [
+            {
+              "name": "$21,466,718"
+            },
+            {
+              "name": "Brooklyn Nets"
+            }
+          ]
+        },
+        {
+          "name": "Joe Johnson",
+          "children": [
+            {
+              "name": "$21,466,718"
+            },
+            {
+              "name": "Brooklyn Nets"
+            }
+          ]
+        },
+        {
+          "name": "Joe Johnson",
+          "children": [
+            {
+              "name": "$21,466,718"
+            },
+            {
+              "name": "Brooklyn Nets"
+            }
+          ]
+        },
+        {
+          "name": "Joe Johnson",
+          "children": [
+            {
+              "name": "$21,466,718"
+            },
+            {
+              "name": "Brooklyn Nets"
+            }
+          ]
+        },
+        {
+          "name": "Joe Johnson",
+          "children": [
+            {
+              "name": "$21,466,718"
+            },
+            {
+              "name": "Brooklyn Nets"
+            }
+          ]
+        },
+        {
+          "name": "Joe Johnson",
+          "children": [
+            {
+              "name": "$21,466,718"
+            },
+            {
+              "name": "Brooklyn Nets"
+            }
+          ]
+        },
+        {
+          "name": "Joe Johnson",
+          "children": [
+            {
+              "name": "$21,466,718"
+            },
+            {
+              "name": "Brooklyn Nets"
+            }
+          ]
+        }
+
+      ]
+    },
+    {
+      "name": "Small Forward"
+    },
+    {
+      "name": "Power Forward"
+    },
+    {
+      "name": "Point Guard"
+    },
+    {
+      "name": "Center"
+    }
+  ]
+}

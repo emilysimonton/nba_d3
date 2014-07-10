@@ -1,0 +1,30 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+tr:first-child {
+  font-weight: bold;
+}
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node {
+  font: 10px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+
+div.bar {
+  display: inline-block;
+  width: 20px;
+  margin-right: 2px;
+  background-color: teal;
+}
