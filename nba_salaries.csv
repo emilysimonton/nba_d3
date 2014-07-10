@@ -299,7 +299,11 @@ Tobias Harris,SF,Orlando Magic,1545840
 Shane Larkin,PG,Dallas Mavericks,1536960
 Ronny Turiaf,C,Minnesota Timberwolves,1500000
 Slava Kravtsov,C,Phoenix Suns,1500000
+<<<<<<< HEAD
 Gary Forbes,F,Brooklyn Nets,1500000
+=======
+Gary Forbes,SF,Brooklyn Nets,1500000
+>>>>>>> 42f9864dd11d756b4890626629c156e419513a9a
 Gustavo Ayon,PF,Atlanta Hawks,1500000
 Andrew Nicholson,PF,Orlando Magic,1482000
 Sergey Karasev,SG,Cleveland Cavaliers,1467840
@@ -394,7 +398,7 @@ Shelvin Mack,PG,Atlanta Hawks,884293
 Draymond Green,SF,Golden State Warriors,875500
 Quincy Douby,SG,Sacramento Kings,855189
 Mouhamed Sene,C,New York Knicks,855189
-Marcus Haislip,F,San Antonio Spurs,855189
+Marcus Haislip,PF,San Antonio Spurs,855189
 Anthony Roberson,SG,Chicago Bulls,855189
 Sundiata Gaines,PG,Indiana Pacers,854389
 Darnell Jackson,PF,Indiana Pacers,854389
